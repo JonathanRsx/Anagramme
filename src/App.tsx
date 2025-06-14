@@ -64,7 +64,7 @@ function App() {
     setIsLoading(true);
     setAnagrammes(permute(word));
     setTheorique(numberOfAnagrams(word));
-    setFavorites([])
+    setFavorites([]);
     setIsLoading(false);
   }, [word]);
 

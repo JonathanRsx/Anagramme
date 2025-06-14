@@ -96,3 +96,11 @@ button:active {
     background-color: #fff;
   }
 }
+
+footer {
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+}
