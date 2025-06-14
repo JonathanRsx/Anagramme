@@ -46,6 +46,8 @@ h2{
 
 p {
   color:#444;
+  text-align: left;
+  text-wrap: balance;
 }
 
 input {
