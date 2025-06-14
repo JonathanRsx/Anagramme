@@ -77,7 +77,7 @@ function App() {
   };
 
   return (
-    <div>
+    <main>
       <header>
         <h1>Anagramme anything</h1>
         <p>
@@ -135,7 +135,7 @@ function App() {
               </button>
             ))}
       </div>
-    </div>
+    </main>
   );
 }
 
